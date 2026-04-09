@@ -1,7 +1,7 @@
 # Blender 5.1.0
 # www.blender.org
 mtllib gaster_uv_edit.mtl
-o wdgaster_body.001
+o wdgaster_body
 v -3.394962 95.394295 11.022920
 v 1.190432 96.085426 11.333759
 v 0.000289 96.296150 11.435744
